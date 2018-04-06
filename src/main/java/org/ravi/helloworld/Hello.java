@@ -13,7 +13,7 @@ public class Hello {
 	}
 	
 	public String displayHelloMessage(String message){
-		message = "hi";
+		message = "hello";
 		return message;
 	}
 
